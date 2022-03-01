@@ -1,0 +1,194 @@
+CLUSTAL multiple sequence alignment by MUSCLE (3.8)
+
+
+M10524.1         ATTTGCTTCTGACATAGTTGTGTTGA-CACACAACCCCAGAAACAGACATCATGGTGCAC
+M10525.1         ACTTGCTTTTGACACAACTGTGTTTACTTGCAATCCCCCAAAACAGACAGAATGGTGCAT
+AH001910.2       ----------GCCCTGGGCAGGTTG--TATCCAGGTTACAAGGCAGCTCACAAGAAGAAG
+AH001221.2       ---------------GCCCTGGGCAGGTTGGTATCCTTTTTACAGCACAACTTAATGAGA
+NM_203528.2      CACAGGCTCTTTTTTTGCAGAAGCT--TAAAATAAACGCTCAGCTTTGACCATGGTTAAT
+M15382.1         ------------------------------------------------------------
+Y08923.1         ------------------------------CGGAGATCAAACACTGACAACATGGTTGAC
+D88119.1         ---------------------------------------------------ATGGTTGAG
+D88120.1         -------------------------------------CCTAAAACCTAGACATGGTTGAG
+D88118.1         ------------------------C--CTAAGGACACCCTAAAACCTAGACATGGTTGAG
+                                                                             
+
+M10524.1         CTGACTGATGCTGAGAAGGCTGCTGTCTCTTGCCTGTGGGGAAAGGTGAACT--------
+M10525.1         CTGTCCAGTGAGGAGAAGTCTGCGGTCACTGCCCTGTGGGGCAAGGTGAATG--------
+AH001910.2       TTGGGNCTTGGAGACAGAGGT-------CTGCTTTCCAGCAGACACTAACTT--------
+AH001221.2       CAGATAGAAACTG-----------------GTCTTGTAGAAACAGAGTAGTCGCCTGCTT
+NM_203528.2      CTGACAGCAAAGGAACGCCAGCTCATCACTGGCACCTGGAGCAAAATATGTG--------
+M15382.1         ------------------------------------------------------------
+Y08923.1         TGGACAGACGCCGAGAAGAGCACCATCAGTGCTGTCTGGGGCAAAGTAGATA--------
+D88119.1         TGGACAGATGCTGAGCGAAGTGCCATCATTGGCCTGTGGGGAAAGCTCAATC--------
+D88120.1         TGGACAGATGCTGAGCGAAGTGCCATCATTGGCCTGTGGGGAAAACTCAATC--------
+D88118.1         TGGACAGATGCTGAGCGAAGTGCCATCATAGGCCTGTGGGGAAAGCTCAATC--------
+                                                                             
+
+M10524.1         --CCGATGAAGTTGGTGGTGAGGCCCTGGG----------------CAGGCTGCTGGTTG
+M10525.1         --TGGAAGAAGTTGGTGGTGAGGCCCTGGG----------------CAGGCTGCTGGTTG
+AH001910.2       --TCAGTGTCCCCTGTCTATGTTTCCCTTTT---------------TAGGCTGCTGGTTG
+AH001221.2       TTCTGCCAGGTGCTGACTTCTCTCCCCTGGGCTGTTTTCATTTTCTCAGGCTGCTGGTTG
+NM_203528.2      --CAAAGACCTTGGGAAAACAGGCCCTTGG----------------CAGTATGCTGTATA
+M15382.1         ------------------------------------------------------------
+Y08923.1         --TCAATGAGGTCGGACCACTGGCTCTGGC----------------AAGAGTCCTGATCG
+D88119.1         --CCGATGAAATCCGACCTCAGGCCCTGGC----------------CAGGTGTCTGATCG
+D88120.1         --CCGATGAACTCGGACCTCAGGCCCTGGC----------------CAGGTGTCTGATCG
+D88118.1         --CCGATGAACTCGGACCTCAGGCCCTGGC----------------CAGGTGTCTGATCG
+                                                                             
+
+M10524.1         TCTACCCTTGGACCCAGCGGTACTTT----------------------------------
+M10525.1         TCTACCCATGGACCCAGAGGTTCTTC----------------------------------
+AH001910.2       TCTACCCTTGGACCCAGCGGTACTTTNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+AH001221.2       TCTACCCATGGACCCAGAGGTTCTTNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NM_203528.2      CTTATCCTTGGACCCAAAGATACTTT----------------------------------
+M15382.1         --------------CAAAGATACTTT----------------------------------
+Y08923.1         TCTACCCCTGGACTCAGCGTTATTTC----------------------------------
+D88119.1         TGTATCCCTGGACTCAGAGATATTTC----------------------------------
+D88120.1         TGTATCCCTGGACTCAGAGATATTTC----------------------------------
+D88118.1         TGTATCCCTGGACTCAGAGGTATTTC----------------------------------
+                               **  * *  **                                   
+
+M10524.1         ------------------------------------------------------------
+M10525.1         ------------------------------------------------------------
+AH001910.2       NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+AH001221.2       NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NM_203528.2      ------------------------------------------------------------
+M15382.1         ------------------------------------------------------------
+Y08923.1         ------------------------------------------------------------
+D88119.1         ------------------------------------------------------------
+D88120.1         ------------------------------------------------------------
+D88118.1         ------------------------------------------------------------
+                                                                             
+
+M10524.1         --------------------------GATAGCTTTGGAGACCTA------TCCTCTGCC-
+M10525.1         --------------------------GAGTCCTTTGGGGACCTG------TCCTCTGCAA
+AH001910.2       NNNNNNGATCCTGAGAACTTCAGGGTGAGTCTGATGGGCACCTCCTGGGTTTCCTTCCCC
+AH001221.2       NNNNNGATCCTGAGAACTTCAGG---GTGAGTTTGGGGACCCTTGATTGTTCTTTCTTTT
+NM_203528.2      --------------------------AGTAGTTTTGGGAACCTC------AGCAGTATCG
+M15382.1         --------------------------AGTTCTTTTGGAAACCTC------AACAGTGCTG
+Y08923.1         --------------------------GGCTCTTTCGGAGACGTG------TCCACTCCCG
+D88119.1         --------------------------GCCTCCTTCGGAAACCTG------TCAAGCCCCG
+D88120.1         --------------------------GCCTCCTTCGGAAACCTG------TCAAGCCCCG
+D88118.1         --------------------------GCCTCCTTTGGAAACCTG------TCAAGCCCTG
+                                                    **   * *                 
+
+M10524.1         ------------------------------------------------------------
+M10525.1         ATGCTGTTATGAACAATCCTAAGGTGAAGG------------------------------
+AH001910.2       TGGCTATTCTGCTCAACCTTCCTATCAGAAAAAAAGGGGAAGCGATTCTAGGGANNNNNN
+AH001221.2       TCGCTATT----GTAAAATTCATGTTA-TATGGAGGGGGCAAAGTTTTCAGGGTNNNNNN
+NM_203528.2      AAGCCATCTTCCACAATGCAGCTGTGGCTACTCATGGTGAAAAGGTGTTGACATCTA---
+M15382.1         ATGCCGTCTTCCACAATGAGGCTGTGGCTGCTCATGGTGAAAAGGTGGTGACATCTA---
+Y08923.1         CAGCAATCATGGGCAACCCCAAAGTTGCTGCTCACGGCAAGGTCGTGTGTGGAGCTC---
+D88119.1         CTGCGATCATGGGTAACCCCAAGGTGGCAGCTCACGGGAGGACTGTGATGGGAGGTC---
+D88120.1         CTGCGATCATGGGTAACCCCAAGGTGGCAGCTCACGGGAGGACTGTGATGGGAGGTC---
+D88118.1         CTGCGATCATGGGTAACCCCAAGGTGGCAGCTCACGGGAGGACTGTGATGGGAGGTC---
+                                                                             
+
+M10524.1         ------------------------------------------------------------
+M10525.1         ------------------------------------------------------------
+AH001910.2       NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+AH001221.2       NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NM_203528.2      ------------------------------------------------------------
+M15382.1         ------------------------------------------------------------
+Y08923.1         ------------------------------------------------------------
+D88119.1         ------------------------------------------------------------
+D88120.1         ------------------------------------------------------------
+D88118.1         ------------------------------------------------------------
+                                                                             
+
+M10524.1         ------------------------------------------------------------
+M10525.1         ------------------------------------------------------------
+AH001910.2       NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTTTAAGGTTGCAAACAAATGTC-TTT
+AH001221.2       NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTTTATGGTTACAATGATATACACTGT
+NM_203528.2      -----------------------------------TTGGAGAGGCCATCAAACACA-TGG
+M15382.1         -----------------------------------TTGGAGAGGCCATCAAGCACA-TGG
+Y08923.1         -----------------------------------TGGATAAAGCTGTGAAGAACA-TGG
+D88119.1         -----------------------------------TGGAGAGAGCCATCAAGAACA-TGG
+D88120.1         -----------------------------------TGGAGAGAGCCATCAAGAACA-TGG
+D88118.1         -----------------------------------TGGAGAGAGCCATCAAGAACA-TGG
+                                                                             
+
+M10524.1         ------------------------------------------------------------
+M10525.1         ------------------------------------------------------------
+AH001910.2       GTA----------------------AATAAGCCTGCAGTATCTGGTATTTTTGCT-----
+AH001221.2       TTGAGATGAGGATAAAATACTCTGAGTTCAAACCGGGCCCCTCTGCTAAC---CATGTTC
+NM_203528.2      ATGACATAAAGGGATATTATGCTCAGCTGAGCAAGTACCACTCAGAAACCCTACATGTGG
+M15382.1         ATGACATAAAGGGATATTATGCTCAGCTGAGCAAATACCACTCAGAGACCCTACATGTGG
+Y08923.1         GCAACATCTTGGCCACATACAAGTCACTGAGCGAGACCCACGCCAACAAACTCTTCGTCG
+D88119.1         ACAACATCAAGGCCACCTATGCGCCACTCAGTGTGATGCACTCTGAGAAACTGCATGTGG
+D88120.1         ACAACATCAAGGCCACCTATGCGCCACTCAGTGTGATGCACTCTGAGAAATTGCATGTGG
+D88118.1         ACAACATCAAGGCCACCTATGCGCCACTCAGTGTGATGCACTCTGAGAAATTGCATGTGG
+                                                                             
+
+M10524.1         ------------------------------------------------------------
+M10525.1         ------------------------------------------------------------
+AH001910.2       ----------CTACAGTTATGTTGATGGTT-CTTCCATATTCCCACAGC-----------
+AH001221.2       ATGCCTTCTTCTTT-------------------------TTCCTACAGC-----------
+NM_203528.2      ATCCATACAATTTCAAGCGCTTCTGTAGCTGCACGATTATTTCCATGGC--------TCA
+M15382.1         ATCCCGCGAACTTCGGGCGCTTCGGTGGCTGCTTGTCTATTGCCCTGGC--------TCG
+Y08923.1         ACCCTGACAATTTCAGGGTGTTGGCTGACGTCCTCACAATTGTCATTGCCGCCAAGTTCG
+D88119.1         ATCCCGACAACTTCAGGCTTTTGGCTGACTGCATCACCGTGTGCGCTGCCATGAAGTTTG
+D88120.1         ATCCCGACAACTTCAGGCTCCTGGCTGATTGCATCACCGTGTGCGCTGCCATGAAGTTTG
+D88118.1         ATCCCGACAACTTCAGGCTCCTGGCTGATTGCATCACCGTGTGCGCTGCCATGAAGTTTG
+                                                                             
+
+M10524.1         ------------------------------------------------------------
+M10525.1         ------------------------------------------------------------
+AH001910.2       ---------------------TCCTGGGC--------------------------AATAT
+AH001221.2       ---------------------TCCTGGGC--------------------------AACGT
+NM_203528.2      AACCCTCCAAGAAGACTTTACACCTGAGCTACAGGCTGCTTTCGAAAAGCTGTTTGCTGC
+M15382.1         TCACTTTCATGAAGAATATACACCTGAGCTACATGCTGCCTATGAACATCTTTTTGATGC
+Y08923.1         GAGCCTCT--------TTCACTCCTGAAATCCAGGCAACCTGGCAGAAGTTCATGAAAGT
+D88119.1         GCCCCTCT-----GCCTTCAATCCTGACGTCCAGGAGGCTTGGCAGAAGTTTCTGTGTGT
+D88120.1         GCCCCTCT-----GGTTTCAGTCCTAACGTCCAGGAGGCCTGGCAGAAGTTTCTGAGTGT
+D88118.1         GCCCCTCT-----GGTTTCAGTCCTAACGTCCAGGAGGCCTGGCAGAAGTTTCTGAGTGT
+                                                                             
+
+M10524.1         ------------------------------------------------------------
+M10525.1         ------------------------------------------------------------
+AH001910.2       GATCGTGATTGTGCTG--------------------------------------------
+AH001221.2       GCTGGTTATTGTGCTG--------------------------------------------
+NM_203528.2      AATTGCTGATGCCCTTGGCAAGGGTTACCACTAA-------------ACCAACCTCAA--
+M15382.1         CATTGCCGACGCCCTTGGCAAGGGTTACCACTAA-------------ACCAGCCTCAA--
+Y08923.1         GGTTGTCGCAGCCATGGGCAGCCGGTACTTCTAA-------------ATGCACCCCAG--
+D88119.1         CGTCGTTTCAGCTCTGTGCAGACAGTACCACTAGAGTCTCATCACCAATGAACACCAGCT
+D88120.1         CGTCGTGTCCGCTCTGTGCAGACAGTACCACTAG--------------------------
+D88118.1         CGTCGTGTCCGCTCTGTGCAGACAGTACCACTAGATTCTCATCACCGATGAACACCAGCT
+                                                                             
+
+M10524.1         ------------------------------------------------------------
+M10525.1         ------------------------------------------------------------
+AH001910.2       ------------------------------------------------------------
+AH001221.2       ------------------------------------------------------------
+NM_203528.2      ---GAACATGTGACTG----------------GAGTCTCTTAGCTACACAGAA-------
+M15382.1         ---GAACACCCGA-TG----------------GAGTCTCTAAGCTACATAATACCAACTT
+Y08923.1         -----ACAAGTGATTA-------TGTTCTGAC--ATCCCTGCCTGAGTGAAAATAAAGAC
+D88119.1         GTATTGCAGAAGATTGCGGGAGCTGTTCACACAAAGATCTAACTCTTATAAAATAAGATG
+D88120.1         ------------------------------------------------------------
+D88118.1         GTATTGCAGAAGATTGCGGGAGCTGTTCACACAAAGATCTATCTCTTATAAAATAAGATC
+                                                                             
+
+M10524.1         ------------------------------------------------------------
+M10525.1         ------------------------------------------------------------
+AH001910.2       ------------------------------------------------------------
+AH001221.2       ------------------------------------------------------------
+NM_203528.2      -------ACAAAATCTCGTT----------------------------------------
+M15382.1         ACACTTTACAAAATGTTGTCCCCCAAAATGTAGCCATTCGTATCTGCTCCTAATAAAAAG
+Y08923.1         G------TTGAAAC----------------------------------------------
+D88119.1         A------ATAAAATGTTG------------------------------------------
+D88120.1         ------------------------------------------------------------
+D88118.1         A------ATAAAATATTG------------------------------------------
+                                                                             
+
+M10524.1         --------------
+M10525.1         --------------
+AH001910.2       --------------
+AH001221.2       --------------
+NM_203528.2      ----TTTTTTCAAA
+M15382.1         AAAGTTTCTTCAC-
+Y08923.1         --------------
+D88119.1         -AAAGCACTTTAAA
+D88120.1         --------------
+D88118.1         --------TTAAAA
+                               
