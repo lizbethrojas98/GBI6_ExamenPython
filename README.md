@@ -31,9 +31,9 @@
            
 **Versión de Python/Anaconda y de cada uno de los módulos/paquetes y utilizados**
 
-- **Anaconda/Python** V3.9.7
-- **Jupiter**V6.4.5
-- **Atom** 1.59.0
+- **Anaconda/Python** ´´´V3.9.7´´´
+- **Jupiter**  ´´´V6.4.5´´´
+- **Atom** ´´´1.59.0´´´
 
 **Explicación de la data utilizada** 
 
