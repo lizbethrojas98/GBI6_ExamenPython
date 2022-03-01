@@ -38,7 +38,9 @@
 **Explicación de la data utilizada** 
 
 En el archivo **Secuencia** vamos a encontrar la secuencia del gen beta-globin
+
 En el archivo **alineamiento** CLUSTAL alineación de secuencias múltiples por MUSCLE (3.8)
+
 En el archivo **pubmed** encontraremos la data de Ecuador genomics en el que se utilizara número de artículos recuperados y el ID del artículo en PUDMED
 
 
